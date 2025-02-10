@@ -1,0 +1,6 @@
+export { default as Bonus } from './bonus.svg'
+export { default as BtnLogin } from './btn_login.svg'
+export { default as Global } from './global.svg'
+export { default as Like } from './like.svg'
+export { default as Lumion } from './lumion.svg'
+export { default as Mail } from './mail.svg'

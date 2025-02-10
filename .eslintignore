@@ -1,0 +1,12 @@
+*.svg
+*.ttf
+node_modules
+.next
+yarn.lock
+package-lock.json
+public
+dist
+build
+*.jpg
+*.png
+
